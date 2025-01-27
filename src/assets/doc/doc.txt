@@ -1,0 +1,5 @@
+node Version:
+    v22.13.1
+
+npm Version:
+    11.0.0
